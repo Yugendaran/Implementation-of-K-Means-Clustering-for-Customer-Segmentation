@@ -11,7 +11,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 1. Import standard libraries in python for finding Implementation-of-K-Means-Clustering-for-Customer-Segmentation.
 2. Initialize and print the Data.head(),data.info(),data.isnull().sum()
 3. Import sklearn.cluster import KMeans
-4. calculate the value KMeans Clusters.
+4. calculate the value of  KMeans Clusters.
 5. plot the graph from Elbow method and find y_pred values .  
 6. plot the graph from Customer Segments Graph.
 
