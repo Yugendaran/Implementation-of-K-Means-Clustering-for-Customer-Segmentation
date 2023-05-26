@@ -74,6 +74,19 @@ plt.title("Customer Segments")
 ## Output:
 ![image](https://github.com/Yugendaran/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/128135616/6e89e8cd-b661-4029-8c1d-5c6fc8421a72)
 
+![image](https://github.com/Yugendaran/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/128135616/2044fa08-4dec-418d-b6e4-4d754d69dc0b)
+
+![image](https://github.com/Yugendaran/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/128135616/a16f664f-d77e-4019-aac2-9d6f79605c0c)
+
+![image](https://github.com/Yugendaran/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/128135616/f185f86d-188e-4fa2-8fb4-4865845df531)
+
+![image](https://github.com/Yugendaran/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/128135616/a1eb4456-65b9-4507-a5f7-cca30b726fdc)
+
+![image](https://github.com/Yugendaran/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/128135616/9c3b2405-16d9-4c1a-a5e9-dcd8cf6a7e8a)
+
+![image](https://github.com/Yugendaran/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/128135616/401de1d5-4102-4836-ace2-4ae4529bde6b)
+
+
 
 
 ## Result:
